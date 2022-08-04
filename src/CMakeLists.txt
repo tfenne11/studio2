@@ -1,8 +1,8 @@
 # author: d.horn
 
 #cmake_minimum_required(VERSION 3.21)
-project(studio_base)
+project(studio)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_subdirectory(src src/build)
+add_executable(studio main.cpp)
