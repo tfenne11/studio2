@@ -1,5 +1,5 @@
 /**
- * main.cpp
+ * Main.cpp
  * CSE 332S
  * Studio Num:
  * Author:

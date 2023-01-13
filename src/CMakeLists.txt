@@ -5,4 +5,4 @@ project(studio)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(studio main.cpp)
+add_executable(studio Main.cpp)
