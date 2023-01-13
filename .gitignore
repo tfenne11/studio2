@@ -341,3 +341,5 @@ cmake_install.cmake
 CMakeCache.txt
 src/build/
 
+# VS build ouput
+out/
